@@ -1,0 +1,24 @@
+{
+  "originHash" : "6b5b387fea435f9da0c20d737e22b68532d4ba204592813b3fd101f8a408015d",
+  "pins" : [
+    {
+      "identity" : "easydate",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EasyPackages/EasyDate.git",
+      "state" : {
+        "revision" : "142b43147cf45fa7c2176fae62a48ca61c10a0be",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "easymock",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EasyPackages/EasyMock.git",
+      "state" : {
+        "revision" : "4a26d5a220414099371b53b155c11da95a1e5966",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
